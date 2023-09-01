@@ -1,4 +1,4 @@
-#James Burrows' First CS193 Homework
+# James Burrows' First CS193 Homework
 
 - Not hard on my schedule
 - Great instructors
