@@ -1,3 +1,12 @@
+#James Burrows' First CS193 Homework
+
+- Not hard on my schedule
+- Great instructors
+- I forgot how to do terminal and now I remember some of it after last class
+- vim is neat
+- This homework wasn't very bad
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
